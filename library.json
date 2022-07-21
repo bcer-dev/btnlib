@@ -1,0 +1,21 @@
+{
+	"name": "btnlib",
+	"version": "1.0.0",
+	"description": "A simple library that simplifies the use of push buttons.",
+	"keywords": "button, beginner",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bcer-dev/btnlib"
+	},
+	"authors": [
+		{
+			"name": "Brayden Rayner",
+			"email": "braydenrayner@outlook.com",
+			"url": "https://github.com/bcer-dev"
+		}
+	],
+	"license": "MIT",
+	"dependencies": {},
+	"frameworks": "Arduino",
+	"platforms": "Arduino"
+}
